@@ -1,0 +1,7 @@
+{
+  "name": "Pokahi.VrcCameraDock.Editor",
+  "rootNamespace": "Pokahi.VrcCameraDock",
+  "includePlatforms": [
+    "Editor"
+  ]
+}
